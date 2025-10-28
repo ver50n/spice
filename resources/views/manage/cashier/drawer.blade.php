@@ -26,18 +26,29 @@
           <tbody>
           @foreach(\App\Models\Product::get() as $product)
             <tr>
-              <td class="product-image"><div class="product-image"></div></td>
+              <td class="product-image"><div class="product-img" style="background: url('/images/{{ $product->product_thumbnail }}') center; width: 100px; height: 100px; background-size: cover;"></div></td>
               <td class="product-name-wrapper">
-                <span class="product-category">@lang('application-constant.PRODUCT_CATEGORY.'.App\Helpers\ApplicationConstant::PRODUCT_CATEGORY[$product->product_category])</span><br />
+                <span class="product-category"><small><i>@lang('application-constant.PRODUCT_CATEGORY.'.App\Helpers\ApplicationConstant::PRODUCT_CATEGORY[$product->product_category])</i></small></span><br />
                 <span class="product-name">{{$product->product_name}}</span><br />
                 <div class="product-variant-wrapper">
                 @foreach($product->productVariants as $variant)
+                @if($variant->variant_name == 'custom')
+                  <input type="text" class="form-control form-control-sm" placeholder="Berat" />
+                  <input type="text" class="form-control form-control-sm" placeholder="Harga" />
                   <button type="button" class="btn btn-primary product-variant"
                     data-variant-id="{{$variant->id}}"
                     data-variant-category="@lang('application-constant.PRODUCT_CATEGORY.'.App\Helpers\ApplicationConstant::PRODUCT_CATEGORY[$product->product_category])"
-                    data-variant-name="{{$product->product_name.' > '.$variant->variant_name}}"
+                    data-variant-name="{{$product->product_name.' ('.$variant->variant_name.') '}}"
+                    data-variant-qty="1"
+                    data-variant-price="{{$variant->variant_price}}">{{$variant->variant_name}}</button>
+                @else
+                  <button type="button" class="btn btn-primary product-variant"
+                    data-variant-id="{{$variant->id}}"
+                    data-variant-category="@lang('application-constant.PRODUCT_CATEGORY.'.App\Helpers\ApplicationConstant::PRODUCT_CATEGORY[$product->product_category])"
+                    data-variant-name="{{$product->product_name.' ('.$variant->variant_name.') '}}"
                     data-variant-qty="1"
                     data-variant-price="{{$variant->variant_price}}">{{$variant->variant_name}}<br /> {{\App\Utils\NumberUtil::currencyFormat($variant->variant_price)}}</button>
+                @endif
                 @endforeach
                 </div>
               </td>
@@ -268,10 +279,12 @@
 
     function addToCart(el) {
       let variantId = el.attr("data-variant-id");
+      let variantName = el.attr("data-variant-name");
       let idx = cartItems.findIndex(function(item) {
         return item.variant_id == variantId
       });
-      if (idx < 0) {
+      
+      if (variantName.toLowerCase().includes("custom") || idx < 0) {
         let item = {
           'variant_id': variantId,
           'variant_category': el.attr("data-variant-category"),
@@ -315,7 +328,7 @@
         grandTotal += item.variant_total;
         let tr = "";
         tr += "<tr>"
-          tr += "<td class='item-name'>" + item.variant_category + " <br />" + item.variant_name +  "</td>";
+          tr += "<td class='item-name'><span><small><i>" + item.variant_category + "</i></small><br />" + item.variant_name +  "</span></td>";
           tr += "<td class='item-qty-wrapper'>";
             tr += "<div class='input-group'>";
               tr += "<input type='number' class='form-control item-qty' data-variant-id='" + item.variant_id +"' required value='" + item.variant_qty + "'>";
@@ -324,7 +337,14 @@
               tr += "</div>";
             tr += "</div>";
           tr += "</td>";
-          tr += "<td class='item-price'>Rp. " + parseInt(item.variant_price).toLocaleString('id') + "</td>";
+          tr += "<td>";
+            tr += "<div class='input-group mb-2'>";
+              tr += "<div class='input-group-prepend'>";
+                tr += "<div class='input-group-text'>Rp. </div>";
+              tr += "</div>";
+              tr += "<input type='number' class='form-control' id='inlineFormInputGroup' value='"+item.variant_price+"' required>";
+            tr += "</div>";
+          tr += "</td>";
           tr += "<td class='item-total'>Rp. " + parseInt(item.variant_total).toLocaleString('id') + "</td>";
         tr += "</tr>";
         $('#cart-items-body').append(tr);

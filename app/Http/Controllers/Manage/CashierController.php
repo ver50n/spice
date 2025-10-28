@@ -14,7 +14,6 @@ class CashierController extends Controller
 
   public function drawer(Request $request)
   {
-    
     $cash = [
       [
         'cash_id' => 500,
@@ -57,8 +56,9 @@ class CashierController extends Controller
         'cash_total' => 100000,
       ],
     ];
+
     return view($this->viewPrefix.'.drawer', [
-      'cash' => $cash
+      'cash' => $cash,
     ]);
   }
 }

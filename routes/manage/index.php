@@ -41,6 +41,8 @@ Route::post('/setting-post', 'Manage\ManageController@settingPost')
   Route::prefix('/bank-account')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/bankAccount.php'));
   Route::prefix('/product')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/product.php'));
   Route::prefix('/purchase')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/purchase.php'));
+  Route::prefix('/subscription')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/subscription.php'));
+  Route::prefix('/stock-opname')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/stockOpname.php'));
   Route::prefix('/sale')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/sale.php'));
   Route::prefix('/expense')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/expense.php'));
   Route::prefix('/cashier')->middleware(['AdminAuthentication'])->group(base_path('routes/manage/cashier.php'));

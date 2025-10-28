@@ -16,9 +16,12 @@ return new class extends Migration
         Schema::create('sale_details', function (Blueprint $table) {
             $table->id();
             $table->integer('sale_id');
-            $table->string('variant_id');
+            $table->integer('variant_id');
+            $table->integer('sale_container');
             $table->integer('sale_qty');
             $table->integer('sale_price');
+            $table->integer('sale_subtotal');
+            $table->text('note');
         });
     }
 

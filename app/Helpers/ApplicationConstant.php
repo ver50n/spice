@@ -72,6 +72,7 @@ class ApplicationConstant
         'raw' => 'raw',
         'base' => 'base',
         'recipe' => 'recipe',
+        'mill' => 'mill',
         'service' => 'service',
     ];
 
@@ -104,6 +105,9 @@ class ApplicationConstant
 
     const SALE_STATUS = [
         'draft' => 'draft',
+        'preparing' => 'preparing',
+        'ready' => 'ready',
+        'shipping' => 'shipping',
         'done' => 'done',
         'cancel' => 'cancel'
     ];
@@ -115,7 +119,7 @@ class ApplicationConstant
         'disposed' => 'disposed',
     ];
 
-    const SALE_TYPE = [
+    const HANDOVER_METHOD = [
         'direct' => 'direct',
         'pickup' => 'pickup',
         'delivery' => 'delivery',

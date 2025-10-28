@@ -21,6 +21,11 @@ class ProductVariant extends Model
         return $this->belongsTo(\App\Models\Product::Class);
     }
 
+    public function variantCompleteName()
+    {
+        return $this->product->product_name.' - '.$this->variant_name;
+    }
+
     public function edit($data)
     {
         $validator = null;

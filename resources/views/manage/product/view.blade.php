@@ -74,6 +74,36 @@
               <th><label>@lang('validation.attributes.product_name')</label></th>
               <td><label>{{$obj->product_name}}</label></td>
             </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.purchase_price')</label></th>
+              <td><label>{{$obj->purchase_price}}</label></td>
+            </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.sell_price')</label></th>
+              <td><label>{{$obj->sell_price}}</label></td>
+            </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.product_thumbnail')</label></th>
+              <td><label>
+                @if($obj->product_thumbnail)
+                <a href="{{ \App\Utils\FileUtil::getImageUrl('product', $obj->product_thumbnail, 's3') }}" target="_blank">
+                  <img src="{{ \App\Utils\FileUtil::getImageUrl('product', $obj->product_thumbnail, 's3') }}" class="preview-image" />
+                </a>
+                @endif
+              </label></td>
+            </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.product_desc')</label></th>
+              <td><label>{!! nl2br($obj->product_desc) !!}</label></td>
+            </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.is_sell_to_customer')</label></th>
+              <td><label>@lang('application-constant.YES_NO.'.App\Helpers\ApplicationConstant::YES_NO[$obj->is_sell_to_customer])</label></td>
+            </tr>
+            <tr>
+              <th><label>@lang('validation.attributes.is_show_in_landing')</label></th>
+              <td><label>@lang('application-constant.YES_NO.'.App\Helpers\ApplicationConstant::YES_NO[$obj->is_show_in_landing])</label></td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -96,6 +126,7 @@
             <tr>
               <th>@lang('validation.attributes.variant_name')</th>
               <th>@lang('validation.attributes.variant_price')</th>
+              <th>@lang('validation.attributes.variant_stock')</th>
               <th>@lang('validation.attributes.is_active')</th>
             </tr>
           </thead>
@@ -104,6 +135,7 @@
             <tr>
               <td>{{ $variant->variant_name }}</td>
               <td>{{ \App\Utils\NumberUtil::currencyFormat($variant->variant_price) }}</td>
+              <td>{{ \App\Utils\NumberUtil::numberFormat($variant->variant_stock) }}</td>
               <td>@lang('application-constant.YES_NO.'.App\Helpers\ApplicationConstant::YES_NO[$variant->is_active])</td>
             </tr>
           @endforeach

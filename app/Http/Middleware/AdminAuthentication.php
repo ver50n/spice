@@ -131,6 +131,16 @@ class AdminAuthentication
             'manage.expense.updateExpenseItemPost' => ['super_admin','admin','supervisor_operator'],
             'manage.expense.deleteExpenseItemPost' => ['super_admin','admin','supervisor_operator'],
 
+            'manage.subscription.list' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.view' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.create' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.createPost' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.update' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.updatePost' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.view' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.updateSubscriptionItemPost' => ['super_admin','admin','supervisor_operator'],
+            'manage.subscription.deleteSubscriptionItemPost' => ['super_admin','admin','supervisor_operator'],
+
             'manage.setting' => ['super_admin','admin','supervisor_cashier','cashier','supervisor_operator','operator'],
             'manage.saveSetting' => ['super_admin','admin','supervisor_cashier','cashier','supervisor_operator','operator'],
             'manage.setting-post' => ['super_admin','admin','supervisor_cashier','cashier','supervisor_operator','operator'],

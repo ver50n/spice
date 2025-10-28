@@ -17,7 +17,8 @@ return new class extends Migration
             $table->id();
             $table->string('product_id');
             $table->string('variant_name');
-            $table->integer('variant_price');
+            $table->integer('variant_price')->default('0');
+            $table->integer('variant_stock')->default('0');
             $table->tinyInteger('is_active')->default('0');
             $table->timestamps();
         });

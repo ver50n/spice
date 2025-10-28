@@ -82,6 +82,16 @@
 							<i class="c_icon fas fa-bag-shopping menu-icon"></i> @lang('common.expense')
 						</a>
 					</li>
+        			<li>
+						<a href="{{ route('manage.subscription.list') }}" class="dropdown-item">
+							<i class="c_icon fas fa-handshake menu-icon"></i> @lang('common.subscription')
+						</a>
+					</li>
+        			<li>
+						<a href="{{ route('manage.stock-opname.list') }}" class="dropdown-item">
+							<i class="c_icon fas fa-cubes menu-icon"></i> @lang('common.stock-opname')
+						</a>
+					</li>
 				</ul>
 			</li>
 			<li class="nav-item">

@@ -24,6 +24,7 @@ return [
     'bank-account' => 'Akun Bank',
     'calendar' => 'Kalender',
     'cashier' => 'Kasir',
+    'subscription' => 'Langganan',
 
     'attention' => 'Perhatian',
     'option' => 'Pilihan',

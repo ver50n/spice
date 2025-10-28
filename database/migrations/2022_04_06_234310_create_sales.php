@@ -16,10 +16,10 @@ return new class extends Migration
         Schema::create('sales', function (Blueprint $table) {
             $table->id();
             $table->string('sale_cd');
-            $table->string('sale_type')->default('direct');
             $table->string('customer_id')->default(1);
             $table->integer('sale_amount')->default(0);
             $table->datetime('sale_at');
+            $table->string('handover_method')->default('direct');
             $table->datetime('handover_at')->nullable();
             $table->string('payment_status')->default('waiting');
             $table->string('sale_status')->default('draft');

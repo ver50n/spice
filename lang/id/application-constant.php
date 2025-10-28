@@ -49,6 +49,7 @@
             'raw' => 'Mentah',
             'base' => 'Dasar',
             'recipe' => 'Bumbu',
+            'mill' => 'Gilingan',
             'service' => 'Jasa',
         ],
         'ASSET_CATEGORY' => [
@@ -81,8 +82,14 @@
         ],
         'SALE_STATUS' => [
             'draft' => 'Draf',
+            'preparing' => 'Persiapan',
+            'shipping' => 'Pengiriman',
             'done' => 'Selesai',
             'cancel' => 'Batal'
         ],
-
+        'HANDOVER_METHOD' => [
+            'direct' => 'Langsung',
+            'delivery' => 'Pengiriman',
+            'pickup' => 'Ambil Sendiri',
+        ],
     ];

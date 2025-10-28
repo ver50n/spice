@@ -50,7 +50,7 @@ class Purchase extends Model
             DB::rollback();
             \Log::error($e->getMessage());
             
-            return $validator->getMessageBag()->add('purchase_category', $e->getMessage());
+            return $validator->getMessageBag()->add('supplier_id', $e->getMessage());
         }
     }
 
