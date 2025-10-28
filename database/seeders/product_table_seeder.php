@@ -28,22 +28,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -61,22 +61,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -94,22 +94,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -127,22 +127,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -160,22 +160,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -193,22 +193,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -226,22 +226,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -259,22 +259,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -292,22 +292,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -325,22 +325,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -358,22 +358,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -391,22 +391,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -424,22 +424,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -457,22 +457,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -490,22 +490,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -523,22 +523,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -556,22 +556,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -589,22 +589,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -622,22 +622,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -655,22 +655,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -688,22 +688,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -721,22 +721,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -754,22 +754,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -787,22 +787,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -820,22 +820,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -853,22 +853,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -886,22 +886,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -919,22 +919,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -952,22 +952,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -985,22 +985,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1018,22 +1018,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1051,22 +1051,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1084,22 +1084,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1117,22 +1117,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1150,22 +1150,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1183,22 +1183,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1216,22 +1216,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1249,22 +1249,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1282,22 +1282,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1315,22 +1315,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1348,22 +1348,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1381,22 +1381,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1414,22 +1414,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1447,22 +1447,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1480,22 +1480,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1513,22 +1513,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1546,22 +1546,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1579,22 +1579,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1612,22 +1612,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1645,22 +1645,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1678,22 +1678,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1711,22 +1711,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1744,22 +1744,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1777,22 +1777,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1810,22 +1810,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1843,22 +1843,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1876,22 +1876,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1909,22 +1909,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1942,22 +1942,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -1975,22 +1975,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2008,22 +2008,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2041,22 +2041,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2074,22 +2074,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2107,22 +2107,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2140,22 +2140,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2173,22 +2173,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2206,22 +2206,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2239,22 +2239,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2272,22 +2272,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2305,22 +2305,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2338,22 +2338,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2371,22 +2371,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2404,22 +2404,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2437,22 +2437,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2470,22 +2470,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2503,22 +2503,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2536,22 +2536,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2569,22 +2569,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2602,22 +2602,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2635,22 +2635,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2668,22 +2668,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2701,22 +2701,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2734,22 +2734,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2767,22 +2767,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2800,22 +2800,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2833,22 +2833,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2866,22 +2866,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2899,22 +2899,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2932,22 +2932,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2965,22 +2965,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -2998,22 +2998,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -3031,22 +3031,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -3064,22 +3064,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -3097,22 +3097,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -3130,22 +3130,22 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '250',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '500',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => '1000',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],[
                         'variant_name' => 'custom',
                         'variant_price' => '0',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ],
@@ -3163,13 +3163,13 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => 'Kering',
                         'variant_price' => '5000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => 'Basah',
                         'variant_price' => '5000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
@@ -3187,13 +3187,13 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '100',
                         'variant_price' => '3000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '500',
                         'variant_price' => '12000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
@@ -3211,19 +3211,19 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '80',
                         'variant_price' => '13000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '220',
                         'variant_price' => '28000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '400',
                         'variant_price' => '32000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
@@ -3241,19 +3241,19 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '770',
                         'variant_price' => '50000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '255',
                         'variant_price' => '25000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '770+255',
                         'variant_price' => '65000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
@@ -3271,19 +3271,19 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '770',
                         'variant_price' => '50000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '255',
                         'variant_price' => '25000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '770+255',
                         'variant_price' => '65000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
@@ -3301,19 +3301,19 @@ class product_table_seeder extends Seeder
                     [
                         'variant_name' => '770',
                         'variant_price' => '50000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '255',
                         'variant_price' => '25000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ],
                     [
                         'variant_name' => '770+255',
                         'variant_price' => '65000',
-                        'stock' => 0
+                        'stock' => 0,
                         'is_active' => 1
                     ]
                 ]
