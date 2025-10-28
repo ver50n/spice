@@ -3177,7 +3177,7 @@ class product_table_seeder extends Seeder
                 'product_category' => 'product',
                 'product_name' => 'Maizena',
                 'purchase_price' => '0',
-                'sell_price' => '5000',
+                'sell_price' => '0',
                 'product_thumbnail' => '',
                 'product_desc' => '',
                 'is_sell_to_customer' => 1,
@@ -3201,7 +3201,7 @@ class product_table_seeder extends Seeder
                 'product_category' => 'product',
                 'product_name' => 'Kaldu Jamur',
                 'purchase_price' => '0',
-                'sell_price' => '5000',
+                'sell_price' => '0',
                 'product_thumbnail' => '',
                 'product_desc' => '',
                 'is_sell_to_customer' => 1,
@@ -3222,7 +3222,7 @@ class product_table_seeder extends Seeder
                     ],
                     [
                         'variant_name' => '400',
-                        'variant_price' => '32000',
+                        'variant_price' => '52000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ]
@@ -3231,7 +3231,7 @@ class product_table_seeder extends Seeder
                 'product_category' => 'product',
                 'product_name' => 'Saos Tiram Panda',
                 'purchase_price' => '0',
-                'sell_price' => '5000',
+                'sell_price' => '0',
                 'product_thumbnail' => '',
                 'product_desc' => '',
                 'is_sell_to_customer' => 1,
@@ -3239,14 +3239,14 @@ class product_table_seeder extends Seeder
                 'is_active' => 1,
                 'variants' => [
                     [
-                        'variant_name' => '770',
-                        'variant_price' => '50000',
+                        'variant_name' => '255',
+                        'variant_price' => '25000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ],
                     [
-                        'variant_name' => '255',
-                        'variant_price' => '25000',
+                        'variant_name' => '770',
+                        'variant_price' => '50000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ],
@@ -3261,7 +3261,7 @@ class product_table_seeder extends Seeder
                 'product_category' => 'product',
                 'product_name' => 'Cuka Yang Terbaik',
                 'purchase_price' => '0',
-                'sell_price' => '5000',
+                'sell_price' => '0',
                 'product_thumbnail' => '',
                 'product_desc' => '',
                 'is_sell_to_customer' => 1,
@@ -3269,29 +3269,23 @@ class product_table_seeder extends Seeder
                 'is_active' => 1,
                 'variants' => [
                     [
-                        'variant_name' => '770',
-                        'variant_price' => '50000',
+                        'variant_name' => '110',
+                        'variant_price' => '3000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ],
                     [
-                        'variant_name' => '255',
-                        'variant_price' => '25000',
+                        'variant_name' => '600',
+                        'variant_price' => '10000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ],
-                    [
-                        'variant_name' => '770+255',
-                        'variant_price' => '65000',
-                        'variant_stock' => 0,
-                        'is_active' => 1
-                    ]
                 ]
             ],[
                 'product_category' => 'product',
                 'product_name' => 'Air Abu',
                 'purchase_price' => '0',
-                'sell_price' => '5000',
+                'sell_price' => '0',
                 'product_thumbnail' => '',
                 'product_desc' => '',
                 'is_sell_to_customer' => 1,
@@ -3299,20 +3293,14 @@ class product_table_seeder extends Seeder
                 'is_active' => 1,
                 'variants' => [
                     [
-                        'variant_name' => '770',
-                        'variant_price' => '50000',
+                        'variant_name' => '100',
+                        'variant_price' => '6000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ],
                     [
-                        'variant_name' => '255',
-                        'variant_price' => '25000',
-                        'variant_stock' => 0,
-                        'is_active' => 1
-                    ],
-                    [
-                        'variant_name' => '770+255',
-                        'variant_price' => '65000',
+                        'variant_name' => '500',
+                        'variant_price' => '15000',
                         'variant_stock' => 0,
                         'is_active' => 1
                     ]
@@ -3332,7 +3320,7 @@ class product_table_seeder extends Seeder
                 $objProductVariant = new \App\Models\ProductVariant();
                 $objProductVariant->fill($variant);
                 $objProductVariant->product_id = $objProduct->id;
-                if($variant['variant_name'] != 'custom' && $objProduct->product_category != 'mill') {
+                if($variant['variant_name'] != 'custom' && !in_array($objProduct->product_category, ['mill', 'product'])) {
                     $objProductVariant->variant_price = $grSellPrice * $objProductVariant->variant_name;
                 }
                 $objProductVariant->save(); 
