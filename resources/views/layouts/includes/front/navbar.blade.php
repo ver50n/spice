@@ -4,7 +4,7 @@
       <img src="{{ mix('images/logo.png') }}" width="35" alt="Bumbu Cantik Logo" />
       <span style="display: flex; align-items: center;">Bumbu Cantik</span>
     </a>
-    <button class="nav-toggle" onclick="toggleMenu()">☰</button>
+    <button class="nav-toggle">☰</button>
     <ul class="nav-menu">
       <li><a href="{{ route('landing') }}" class="active">Home</a></li>
       <li><a href="{{ route('products') }}">Product</a></li>

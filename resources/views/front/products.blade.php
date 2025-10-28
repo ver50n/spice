@@ -21,14 +21,12 @@
   </div>
 </section>
 
-
-
   @if(isset($products) && $products->count())
     <!-- Produk Grid -->
     <section class="product-grid">
       @foreach($products as $product)
         <div class="product-card" data-category="{{ $product->product_category }}" data-detail="{{ $product->id }}">
-          <div class="product-img" style="background: url('/images/{{ $product->product_thumbnail }}')"></div>
+          <div class="product-img" style="background: url('{{ $product->product_thumbnail }}')"></div>
           <h3>{{ $product->product_name }}</h3>
           <p>{{ \Illuminate\Support\Str::limit($product->product_desc ?? '', 80) }}</p>
         </div>
@@ -90,7 +88,7 @@
       document.getElementById('modal-category').textContent = `Kategori: ${product.product_category}`;
       document.getElementById('modal-price').textContent = product.product_price;
       document.getElementById('modal-desc').textContent = product.product_desc;
-      document.getElementById('modal-img').src = '/images/'+product.product_thumbnail;
+      document.getElementById('modal-img').src = product.product_thumbnail;
 
       // Buat daftar varian dan harga
       const variantContainer = document.getElementById('modal-variants');

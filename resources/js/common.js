@@ -177,11 +177,18 @@ $(function($) {
     customPrint();
     $(".for-altar").css({"display": "none"});
   })
+  $(".nav-toggle").click(function() {
+    toggleMenu();
+  });
 
   function customPrint() {
     document.body.innerHTML = document.getElementById("print-area").innerHTML;
     window.print();
     location.reload();
+  }
+
+  function toggleMenu() {
+    document.querySelector('.nav-menu').classList.toggle('show');
   }
 
   // readOnly on selection hack on submit
